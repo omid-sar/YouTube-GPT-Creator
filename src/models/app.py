@@ -1,6 +1,6 @@
 # Bring in deps
 import os
-from src.models.apikey import apikey
+from apikey import apikey
 import streamlit as st
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.document_loaders import YoutubeLoader
