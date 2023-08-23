@@ -2,10 +2,9 @@
 import os
 import streamlit as st
 
-impo
 
 # Load the OpenAI API key from  apikey.py file
-from src.models.apikey import apikey
+from apikey import apikey
 
 os.environ["OPENAI_API_KEY"] = apikey
 
