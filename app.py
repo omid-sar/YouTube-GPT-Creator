@@ -73,7 +73,3 @@ if prompt:
                 }
             )
             st.write(script)
-
-
-# the most popular breads of dogs in the USA
-# German Shepherd, Poodle, Golden Retriver and Labrador Retriver
