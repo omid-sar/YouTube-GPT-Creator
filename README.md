@@ -29,8 +29,8 @@ The application is built using Streamlit and the langchain library, creating an 
 Clone the repository:
 
 ```bash
-git clone <Your Repository URL>
-cd <Your Repository Directory>
+git clone https://github.com/omid-sar/YouTube-Assistant-LangChain.git
+cd YouTube-GPT-Creator
 ```
 
 Install the required libraries:
@@ -64,4 +64,3 @@ You can also test the application on Hugging Face Spaces by visiting [YouTube Co
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-Please replace `<Your Repository URL>` and `<Your Repository Directory>` with the actual URL of your GitHub repository and the directory name. Also, ensure you have a `requirements.txt` file listing all the necessary packages and a `LICENSE` file in your repository.
