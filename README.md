@@ -61,6 +61,5 @@ You can also test the application on Hugging Face Spaces by visiting [YouTube Co
 
 ## License
 
-This project is licensed under the MIT License - see the[https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt](LICENSE) file for details.
-```
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
